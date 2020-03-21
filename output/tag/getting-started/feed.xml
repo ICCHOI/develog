@@ -2,21 +2,21 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="/develog/author/icchoi/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/develog/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/develog/" rel="alternate" type="text/html" />
-  <updated>2020-03-22T02:41:14+09:00</updated>
-  <id>/develog/author/icchoi/feed.xml</id>
+  <updated>2020-03-21T23:38:50+09:00</updated>
+  <id>/develog/tag/getting-started/feed.xml</id>
 
   
   
   
 
   
-    <title type="html">develog | </title>
+    <title type="html">IC C. develog | </title>
   
 
   
-    <subtitle>develop blog</subtitle>
+    <subtitle>Junior developer IC CHOI blog</subtitle>
   
 
   

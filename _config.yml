@@ -3,7 +3,6 @@ markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
 language: 'en-uk'
-timezone: 'Asia/Seoul'
 encoding: 'UTF-8'
 words_per_minute: 200
 
