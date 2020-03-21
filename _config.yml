@@ -3,14 +3,16 @@ markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
 language: 'en-uk'
+timezone: 'Asia/Seoul'
+encoding: 'UTF-8'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /develog/
 
 # Website info
-title: IC C. develog
-description: Junior developer IC CHOI blog
+title: develog
+description: develop blog
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -73,9 +75,8 @@ username: ICCHOI
 repo: develog
 branch: master
 relative_source: ../develog/
-destination: ../jasper2-pages/
+destination: ./output/
 production_url:  https://icchoi.github.io/develog/
-source_url:  https://github.com/jekyller/jasper2/
 
 exclude:
   - assets/css
